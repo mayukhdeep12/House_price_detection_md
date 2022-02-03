@@ -4,7 +4,7 @@
 
 ### Steps:
 
-Step 1: Clome the repo \
+Step 1: Clone the repo \
 Step 2: Open Server folder and run server.py 
 ~~~
 python server.py
