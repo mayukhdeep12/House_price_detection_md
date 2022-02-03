@@ -14,7 +14,7 @@ Step 3: Open Server folder and run server.py
 python server.py
 ~~~
 
-Step 4: Open Client folder and run app.html \
+Step 4: Open Client folder and open app.html \
 Step 5: Fill the details in the webpage to get the output
 
 ## Output Images
