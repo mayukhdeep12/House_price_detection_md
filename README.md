@@ -5,11 +5,13 @@
 ### Steps:
 
 Step 1: Clone the repo \
-Step 2: Open Server folder and run server.py 
+Step 2: Install the dependencies \
+Step 3: Open Server folder and run server.py \
 ~~~
 python server.py
 ~~~
 
-Step 3: Open Client folder and run app.html
+Step 4: Open Client folder and run app.html \
+Step 5: Fill the details in the webpage to get the output
 
 ## Output Images
