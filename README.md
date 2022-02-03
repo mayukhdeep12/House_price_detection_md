@@ -4,6 +4,9 @@
 
 ### Steps:
 
+Used bangalore home price data /
+https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
+
 Step 1: Clone the repo \
 Step 2: Install the dependencies \
 Step 3: Open Server folder and run server.py 
