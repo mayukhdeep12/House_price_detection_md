@@ -1,6 +1,6 @@
 # Real Estate Price Prediction
 
-## Want to run the repo?
+## Want to run this repo?
 
 ### Steps:
 
